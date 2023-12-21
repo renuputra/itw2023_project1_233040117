@@ -1,0 +1,69 @@
+body {
+  color: white;
+}
+
+.collapse-navbar-collapse a:hover {
+  color: #16161a;
+}
+
+.nav-link {
+  margin-left: 50px;
+  font-weight: bold;
+}
+
+.jumbotron {
+  padding-top: 13rem;
+  padding-bottom: 5rem;
+  background-color: #000000;
+}
+
+.sosial-media {
+  font-size: 30px;
+}
+
+.sosial-media a {
+  color: white;
+}
+
+#about {
+  padding-top: 10rem;
+  padding-bottom: 5rem;
+  color: white;
+  background-color: #000000;
+}
+
+#projects {
+  background-color: #000000;
+  padding-top: 5rem;
+  padding-bottom: 1000px;
+  color: #000;
+}
+
+#projects h2 {
+  color: white;
+}
+
+.skills {
+  width: 200px;
+  height: 200px;
+  margin-left: 100px;
+}
+
+#skill {
+  background-color: #000000;
+  padding-top: 5rem;
+}
+
+#contact {
+  background-color: #000000;
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #94a1b2;
+  color: #000;
+}
+
+section {
+  height: 100vh;
+}
